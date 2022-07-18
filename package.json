@@ -12,4 +12,6 @@
   "dependencies": {
     "axios": "^0.27.2",
     "colors": "^1.4.0",
- 
+    "inquirer": "^9.0.0"
+  }
+}
